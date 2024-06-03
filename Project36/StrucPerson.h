@@ -4,6 +4,7 @@ using namespace std;
 
 struct Person
 {
-	string name, surname;
+	string name, surname, date_jf_birth;
 	int age;
+	double weight;
 };
